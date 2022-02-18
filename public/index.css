@@ -1,0 +1,198 @@
+.mainSection{
+    background: #000;
+    height: 2000px;
+    width: 400px;
+}
+
+
+/* TOGALE BORDER  */
+.border{
+    border:none !important;
+}
+.navbar-toggler{
+    color:#000 !important;
+}
+
+.bgcolor{
+    color: #000 !important;
+}
+
+/* FOR Horizontal LINE */
+.horizontalLine{
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: 20px;
+    color: #fff;
+}
+
+/* IMAGE SECTION */
+.imgSecssion{
+    margin-left: 25px;
+    margin-top: 30px;
+    height: 450px;
+    width: 345px;
+}
+
+/* first_h1_tag */
+.first_h1_tag{
+    margin-top: 100px;
+    margin-left: 20px;
+    color:#fff ;
+    font-size:40px;
+    font-weight: bold;
+    text-align:left;
+}
+
+/* first_p_tag */
+.first_p_tag{
+    margin-top: 30px;
+    margin-left: 20px;
+    color: #fff;
+}
+/* for_stars_div */
+.for_stars_div{
+    margin-left: 20px;
+    max-width: max-content;
+    border-radius: 2rem;
+    background-color: green;
+    display:inline-block;
+}
+
+/* for ratting */
+.checked{
+    color:#fff ;
+}
+/* ratting */
+.ratting{
+    margin-left: 5px;
+    font-weight:bolder ;
+}
+
+/* rupees */
+.rupees{
+    color: #fff;
+    margin-left: 25px;
+    margin-top: 40px;
+    font-size: 50px;
+    font-weight:900;
+    display: inline-block;
+}
+
+/* another_rupees */
+.another{
+    color: #202020;
+}
+
+/* decoration */
+.decoration{
+    text-decoration: line-through;
+}
+
+/* div_second */
+.div_second{
+    height: 165px;
+    border-radius:1rem;
+    padding-top: 10px;
+    margin-left: 15px;
+    margin-right: 40px;
+    background-color: #202020;
+}
+
+/* most_popular */
+.most_popular{
+    margin-left: 25px;
+    color: #fff;
+    border-radius: 2rem;
+    background-color:#5797f7;
+    max-width: max-content;
+    font-size: small;
+    padding-left: 5px;    
+    padding-right: 5px;
+
+}
+/* stars */
+.stars{
+    font-size:x-small !important;
+}
+
+/* tubes */
+.tubes{
+    margin-left: 25px;
+    color: #fff;
+}
+
+/* saving */
+.saving{
+    margin-top: -3px;
+    margin-left: 25px;
+    font-size: 18px;
+    color: #333131;
+    display: inline-block;
+}
+
+/* five_nine_five */
+.five_nine_five{
+    margin-left: 160px;
+}
+.five_nine_five_p_tag{
+    margin-left: 110px;
+    margin-top: -50px;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+/* seven_nine_five_p_tag */
+.seven_nine_five_p_tag{
+    color: #333131;
+    margin-top: -10px;
+    margin-left: 267px;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+.seven_nine_five{
+    margin-left: 160px;
+}
+
+/* persentage */
+.persentage{
+    margin-top: -30px;
+    margin-left: 25px;
+}
+.persentage_text{
+    color: green;
+}
+
+.best_result_text{
+    margin-left: 20px;
+    color:orange;
+}
+
+.div_third{
+    height: 120px;
+    margin-top: 30px;
+    border-radius:1rem;
+    padding-top: 10px;
+    margin-left: 15px;
+    margin-right: 40px;
+    background-color: #202020;
+}
+
+.add_button{
+    margin-top: 30px;
+    margin-left: 15px;
+    border: none;
+    color: #fff;
+    font-weight: bolder;
+    background-color:#1e1e2b;
+    height: 3%;
+    width: 90%;
+}
+
+.click{
+    background-color: #5c6077;
+    border: 2px solid #fff;
+}
+.click::after{
+    content: "a";
+}
